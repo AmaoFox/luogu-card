@@ -28,7 +28,7 @@
             的练习情况
         </text>
         <text x="280" y="0" class="title" font-weight="normal" font-size="13px">
-            已通过: 1286题    未通过: 84题
+            已通过: 1287题    未通过: 84题
         </text>
     </g>
                 </g>
@@ -94,8 +94,8 @@
         
         <g transform="translate(0, 210)">
             <text x="0" y="15" class="text">NOI/NOI+/CTSC</text>
-            <text x="117.97004991680532" y="15" class="text">35题</text>
-            <rect height="11" fill="#0e1d69" rx="5" ry="5" x="90" y="5" width="17.970049916805326"></rect>
+            <text x="118.46921797004993" y="15" class="text">36题</text>
+            <rect height="11" fill="#0e1d69" rx="5" ry="5" x="90" y="5" width="18.469217970049918"></rect>
         </g>
         
         <g transform="translate(0, 240)">
