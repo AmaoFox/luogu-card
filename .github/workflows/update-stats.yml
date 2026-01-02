@@ -3,7 +3,9 @@ name: Update Luogu Stats
 on:
   workflow_dispatch:      # 保留手动触发
   schedule:
-    - cron: '0 */6 * * *' # 如果想每 6 小时跑一次（但注意你的个人统计限频 1 小时，实际效果差不多）
+    - cron: '0 0-10/1 * * *'
+    - cron: '0 11-15/2 * * *'
+    - cron: '0 20 * * *'
 
 jobs:
   update:
