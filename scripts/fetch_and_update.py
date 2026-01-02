@@ -232,7 +232,7 @@ def main():
     current_time = time.time()
     
     # 个人统计限制：1小时一次
-    if current_time - last_time < 3600:
+    if current_time - last_time < 3500:
         print("距离上次个人统计更新不到1小时，跳过个人部分。")
     else:
         print("正在爬取个人练习数据...")
@@ -253,7 +253,7 @@ def main():
     
     # 制霸总题数：每天更新一次
     total_last_time = cache.get("total_last_time", 0)
-    if current_time - total_last_time > 86400:
+    if current_time - total_last_time > 86300:
         total_counts = fetch_total_counts()
         if sum(total_counts) == 0:
             print("所有难度总题数获取失败，使用缓存")
