@@ -28,7 +28,7 @@
             的练习情况
         </text>
         <text x="280" y="0" class="title" font-weight="normal" font-size="13px">
-            已通过: 1289题    未通过: 84题
+            已通过: 1290题    未通过: 84题
         </text>
     </g>
                 </g>
@@ -82,8 +82,8 @@
         
         <g transform="translate(0, 150)">
             <text x="0" y="15" class="text">提高+/省选-</text>
-            <text x="162.39600665557404" y="15" class="text">124题</text>
-            <rect height="11" fill="#3498db" rx="5" ry="5" x="90" y="5" width="62.39600665557405"></rect>
+            <text x="162.89517470881864" y="15" class="text">125题</text>
+            <rect height="11" fill="#3498db" rx="5" ry="5" x="90" y="5" width="62.89517470881864"></rect>
         </g>
         
         <g transform="translate(0, 180)">
