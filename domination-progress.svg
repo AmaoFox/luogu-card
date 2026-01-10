@@ -64,14 +64,14 @@
         
         <g transform="translate(0, 60)">
             <text x="0" y="15" class="text">普及-</text>
-            <text x="240.0171379605827" y="15" class="text">1633题</text>
-            <rect height="11" fill="#f39c11" rx="5" ry="5" x="90" y="5" width="140.0171379605827"></rect>
+            <text x="239.93144815766925" y="15" class="text">1632题</text>
+            <rect height="11" fill="#f39c11" rx="5" ry="5" x="90" y="5" width="139.93144815766925"></rect>
         </g>
         
         <g transform="translate(0, 90)">
             <text x="0" y="15" class="text">普及/提高-</text>
-            <text x="266.75235646958015" y="15" class="text">1945题</text>
-            <rect height="11" fill="#ffc116" rx="5" ry="5" x="90" y="5" width="166.75235646958012"></rect>
+            <text x="266.83804627249356" y="15" class="text">1946题</text>
+            <rect height="11" fill="#ffc116" rx="5" ry="5" x="90" y="5" width="166.83804627249356"></rect>
         </g>
         
         <g transform="translate(0, 120)">
@@ -88,14 +88,14 @@
         
         <g transform="translate(0, 180)">
             <text x="0" y="15" class="text">省选/NOI-</text>
-            <text x="392.2879177377892" y="15" class="text">3410题</text>
-            <rect height="11" fill="#9d3dcf" rx="5" ry="5" x="90" y="5" width="292.2879177377892"></rect>
+            <text x="392.45929734361613" y="15" class="text">3412题</text>
+            <rect height="11" fill="#9d3dcf" rx="5" ry="5" x="90" y="5" width="292.45929734361613"></rect>
         </g>
         
         <g transform="translate(0, 210)">
             <text x="0" y="15" class="text">NOI/NOI+/CTSC</text>
-            <text x="244.90145672664954" y="15" class="text">1690题</text>
-            <rect height="11" fill="#0e1d69" rx="5" ry="5" x="90" y="5" width="144.90145672664954"></rect>
+            <text x="244.7300771208226" y="15" class="text">1688题</text>
+            <rect height="11" fill="#0e1d69" rx="5" ry="5" x="90" y="5" width="144.7300771208226"></rect>
         </g>
         
         <g transform="translate(0, 240)">
