@@ -52,8 +52,8 @@
         
         <g transform="translate(0, 0)">
             <text x="0" y="15" class="text">未评定</text>
-            <text x="128.70608397600685" y="15" class="text">334题</text>
-            <rect height="11" fill="#bfbfbf" rx="5" ry="5" x="90" y="5" width="28.706083976006852"></rect>
+            <text x="128.36332476435302" y="15" class="text">330题</text>
+            <rect height="11" fill="#bfbfbf" rx="5" ry="5" x="90" y="5" width="28.36332476435304"></rect>
         </g>
         
         <g transform="translate(0, 30)">
@@ -70,8 +70,8 @@
         
         <g transform="translate(0, 90)">
             <text x="0" y="15" class="text">普及/提高-</text>
-            <text x="266.923736075407" y="15" class="text">1947题</text>
-            <rect height="11" fill="#ffc116" rx="5" ry="5" x="90" y="5" width="166.92373607540702"></rect>
+            <text x="267.0094258783205" y="15" class="text">1948题</text>
+            <rect height="11" fill="#ffc116" rx="5" ry="5" x="90" y="5" width="167.00942587832049"></rect>
         </g>
         
         <g transform="translate(0, 120)">
@@ -82,14 +82,14 @@
         
         <g transform="translate(0, 150)">
             <text x="0" y="15" class="text">提高+/省选-</text>
-            <text x="330.67694944301627" y="15" class="text">2691题</text>
-            <rect height="11" fill="#3498db" rx="5" ry="5" x="90" y="5" width="230.6769494430163"></rect>
+            <text x="330.76263924592973" y="15" class="text">2692题</text>
+            <rect height="11" fill="#3498db" rx="5" ry="5" x="90" y="5" width="230.76263924592973"></rect>
         </g>
         
         <g transform="translate(0, 180)">
             <text x="0" y="15" class="text">省选/NOI-</text>
-            <text x="392.37360754070266" y="15" class="text">3411题</text>
-            <rect height="11" fill="#9d3dcf" rx="5" ry="5" x="90" y="5" width="292.37360754070266"></rect>
+            <text x="392.5449871465296" y="15" class="text">3413题</text>
+            <rect height="11" fill="#9d3dcf" rx="5" ry="5" x="90" y="5" width="292.5449871465296"></rect>
         </g>
         
         <g transform="translate(0, 210)">
