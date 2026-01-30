@@ -28,7 +28,7 @@
             的练习情况
         </text>
         <text x="280" y="0" class="title" font-weight="normal" font-size="13px">
-            已通过: 15041题    未通过: 0题
+            已通过: 15043题    未通过: 0题
         </text>
     </g>
                 </g>
@@ -52,8 +52,8 @@
         
         <g transform="translate(0, 0)">
             <text x="0" y="15" class="text">未评定</text>
-            <text x="128.53470437017995" y="15" class="text">332题</text>
-            <rect height="11" fill="#bfbfbf" rx="5" ry="5" x="90" y="5" width="28.53470437017995"></rect>
+            <text x="128.4490145672665" y="15" class="text">331题</text>
+            <rect height="11" fill="#bfbfbf" rx="5" ry="5" x="90" y="5" width="28.449014567266495"></rect>
         </g>
         
         <g transform="translate(0, 30)">
@@ -82,8 +82,8 @@
         
         <g transform="translate(0, 150)">
             <text x="0" y="15" class="text">提高+/省选-</text>
-            <text x="333.16195372750644" y="15" class="text">2720题</text>
-            <rect height="11" fill="#3498db" rx="5" ry="5" x="90" y="5" width="233.16195372750641"></rect>
+            <text x="333.33333333333337" y="15" class="text">2722题</text>
+            <rect height="11" fill="#3498db" rx="5" ry="5" x="90" y="5" width="233.33333333333334"></rect>
         </g>
         
         <g transform="translate(0, 180)">
@@ -94,8 +94,8 @@
         
         <g transform="translate(0, 210)">
             <text x="0" y="15" class="text">NOI/NOI+/CTSC</text>
-            <text x="245.92973436161097" y="15" class="text">1702题</text>
-            <rect height="11" fill="#0e1d69" rx="5" ry="5" x="90" y="5" width="145.92973436161097"></rect>
+            <text x="246.01542416452443" y="15" class="text">1703题</text>
+            <rect height="11" fill="#0e1d69" rx="5" ry="5" x="90" y="5" width="146.01542416452443"></rect>
         </g>
         
         <g transform="translate(0, 240)">
