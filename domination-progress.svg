@@ -28,7 +28,7 @@
             的练习情况
         </text>
         <text x="280" y="0" class="title" font-weight="normal" font-size="13px">
-            已通过: 15242题    未通过: 0题
+            已通过: 15268题    未通过: 0题
         </text>
     </g>
                 </g>
@@ -52,8 +52,8 @@
         
         <g transform="translate(0, 0)">
             <text x="0" y="15" class="text">未评定</text>
-            <text x="129.22022279348758" y="15" class="text">340题</text>
-            <rect height="11" fill="#bfbfbf" rx="5" ry="5" x="90" y="5" width="29.220222793487576"></rect>
+            <text x="129.73436161096828" y="15" class="text">346题</text>
+            <rect height="11" fill="#bfbfbf" rx="5" ry="5" x="90" y="5" width="29.734361610968293"></rect>
         </g>
         
         <g transform="translate(0, 30)">
@@ -64,38 +64,38 @@
         
         <g transform="translate(0, 60)">
             <text x="0" y="15" class="text">普及-</text>
-            <text x="243.95886889460155" y="15" class="text">1679题</text>
-            <rect height="11" fill="#f39c11" rx="5" ry="5" x="90" y="5" width="143.95886889460155"></rect>
+            <text x="244.30162810625535" y="15" class="text">1683题</text>
+            <rect height="11" fill="#f39c11" rx="5" ry="5" x="90" y="5" width="144.30162810625535"></rect>
         </g>
         
         <g transform="translate(0, 90)">
             <text x="0" y="15" class="text">普及/提高-</text>
-            <text x="271.8080548414739" y="15" class="text">2004题</text>
-            <rect height="11" fill="#ffc116" rx="5" ry="5" x="90" y="5" width="171.80805484147388"></rect>
+            <text x="271.9794344473008" y="15" class="text">2006题</text>
+            <rect height="11" fill="#ffc116" rx="5" ry="5" x="90" y="5" width="171.97943444730078"></rect>
         </g>
         
         <g transform="translate(0, 120)">
             <text x="0" y="15" class="text">普及+/提高</text>
-            <text x="288.77463581833763" y="15" class="text">2202题</text>
-            <rect height="11" fill="#52c41a" rx="5" ry="5" x="90" y="5" width="188.77463581833763"></rect>
+            <text x="289.1173950299914" y="15" class="text">2206题</text>
+            <rect height="11" fill="#52c41a" rx="5" ry="5" x="90" y="5" width="189.11739502999143"></rect>
         </g>
         
         <g transform="translate(0, 150)">
             <text x="0" y="15" class="text">提高+/省选-</text>
-            <text x="337.18937446443874" y="15" class="text">2767题</text>
-            <rect height="11" fill="#3498db" rx="5" ry="5" x="90" y="5" width="237.18937446443874"></rect>
+            <text x="337.617823479006" y="15" class="text">2772题</text>
+            <rect height="11" fill="#3498db" rx="5" ry="5" x="90" y="5" width="237.617823479006"></rect>
         </g>
         
         <g transform="translate(0, 180)">
             <text x="0" y="15" class="text">省选/NOI-</text>
-            <text x="398.02913453299055" y="15" class="text">3477题</text>
-            <rect height="11" fill="#9d3dcf" rx="5" ry="5" x="90" y="5" width="298.02913453299055"></rect>
+            <text x="398.28620394173095" y="15" class="text">3480题</text>
+            <rect height="11" fill="#9d3dcf" rx="5" ry="5" x="90" y="5" width="298.28620394173095"></rect>
         </g>
         
         <g transform="translate(0, 210)">
             <text x="0" y="15" class="text">NOI/NOI+/CTSC</text>
-            <text x="247.3864610111397" y="15" class="text">1719题</text>
-            <rect height="11" fill="#0e1d69" rx="5" ry="5" x="90" y="5" width="147.3864610111397"></rect>
+            <text x="247.5578406169666" y="15" class="text">1721题</text>
+            <rect height="11" fill="#0e1d69" rx="5" ry="5" x="90" y="5" width="147.5578406169666"></rect>
         </g>
         
         <g transform="translate(0, 240)">
