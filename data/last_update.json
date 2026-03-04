@@ -1,5 +1,5 @@
 {
-  "last_update_time": 1772596862.2699282,
+  "last_update_time": 1772602637.1907039,
   "personal_passed": [
     1,
     527,
@@ -12,14 +12,14 @@
   ],
   "personal_unpassed": 86,
   "total_counts": [
-    366,
+    365,
     1068,
     1721,
     2032,
     2252,
-    2813,
-    3522,
-    1761
+    2816,
+    3521,
+    1764
   ],
-  "total_last_time": 1772510834.035681
+  "total_last_time": 1772602637.1907039
 }
