@@ -64,14 +64,14 @@
         
         <g transform="translate(0, 60)">
             <text x="0" y="15" class="text">普及-</text>
-            <text x="195.84026622296173" y="15" class="text">191题</text>
-            <rect height="11" fill="#f39c11" rx="5" ry="5" x="90" y="5" width="95.84026622296173"></rect>
+            <text x="196.3394342762063" y="15" class="text">192题</text>
+            <rect height="11" fill="#f39c11" rx="5" ry="5" x="90" y="5" width="96.33943427620632"></rect>
         </g>
         
         <g transform="translate(0, 90)">
             <text x="0" y="15" class="text">普及/提高-</text>
-            <text x="155.40765391014975" y="15" class="text">110题</text>
-            <rect height="11" fill="#ffc116" rx="5" ry="5" x="90" y="5" width="55.407653910149754"></rect>
+            <text x="154.90848585690514" y="15" class="text">109题</text>
+            <rect height="11" fill="#ffc116" rx="5" ry="5" x="90" y="5" width="54.90848585690516"></rect>
         </g>
         
         <g transform="translate(0, 120)">
