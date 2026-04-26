@@ -28,7 +28,7 @@
             的练习情况
         </text>
         <text x="280" y="0" class="title" font-weight="normal" font-size="13px">
-            已通过: 16337题    未通过: 0题
+            已通过: 16341题    未通过: 0题
         </text>
     </g>
                 </g>
@@ -52,8 +52,8 @@
         
         <g transform="translate(0, 0)">
             <text x="0" y="15" class="text">未评定</text>
-            <text x="128.613888138341" y="15" class="text">352题</text>
-            <rect height="11" fill="#bfbfbf" rx="5" ry="5" x="90" y="5" width="28.613888138340986"></rect>
+            <text x="128.77600648473384" y="15" class="text">354题</text>
+            <rect height="11" fill="#bfbfbf" rx="5" ry="5" x="90" y="5" width="28.776006484733855"></rect>
         </g>
         
         <g transform="translate(0, 30)">
@@ -70,8 +70,8 @@
         
         <g transform="translate(0, 90)">
             <text x="0" y="15" class="text">普及/提高-</text>
-            <text x="274.76357741151037" y="15" class="text">2155题</text>
-            <rect height="11" fill="#ffc116" rx="5" ry="5" x="90" y="5" width="174.7635774115104"></rect>
+            <text x="274.84463658470685" y="15" class="text">2156题</text>
+            <rect height="11" fill="#ffc116" rx="5" ry="5" x="90" y="5" width="174.84463658470685"></rect>
         </g>
         
         <g transform="translate(0, 120)">
@@ -82,8 +82,8 @@
         
         <g transform="translate(0, 150)">
             <text x="0" y="15" class="text">提高+/省选-</text>
-            <text x="340.7457443934072" y="15" class="text">2969题</text>
-            <rect height="11" fill="#3498db" rx="5" ry="5" x="90" y="5" width="240.7457443934072"></rect>
+            <text x="340.82680356660364" y="15" class="text">2970题</text>
+            <rect height="11" fill="#3498db" rx="5" ry="5" x="90" y="5" width="240.82680356660362"></rect>
         </g>
         
         <g transform="translate(0, 180)">
