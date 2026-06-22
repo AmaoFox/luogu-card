@@ -58,14 +58,14 @@
         
         <g transform="translate(0, 30)">
             <text x="0" y="15" class="text">入门</text>
-            <text x="362.56239600665555" y="15" class="text">525题</text>
-            <rect height="11" fill="#fe4c61" rx="5" ry="5" x="90" y="5" width="262.56239600665555"></rect>
+            <text x="362.063227953411" y="15" class="text">524题</text>
+            <rect height="11" fill="#fe4c61" rx="5" ry="5" x="90" y="5" width="262.063227953411"></rect>
         </g>
         
         <g transform="translate(0, 60)">
             <text x="0" y="15" class="text">普及-</text>
-            <text x="198.3361064891847" y="15" class="text">196题</text>
-            <rect height="11" fill="#f39c11" rx="5" ry="5" x="90" y="5" width="98.33610648918469"></rect>
+            <text x="198.83527454242926" y="15" class="text">197题</text>
+            <rect height="11" fill="#f39c11" rx="5" ry="5" x="90" y="5" width="98.83527454242927"></rect>
         </g>
         
         <g transform="translate(0, 90)">
