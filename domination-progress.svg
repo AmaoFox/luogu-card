@@ -88,14 +88,14 @@
         
         <g transform="translate(0, 180)">
             <text x="0" y="15" class="text">省选/NOI-</text>
-            <text x="166.56079054173284" y="15" class="text">3771题</text>
-            <rect height="11" fill="#9d3dcf" rx="5" ry="5" x="90" y="5" width="66.56079054173284"></rect>
+            <text x="166.54314452091052" y="15" class="text">3770题</text>
+            <rect height="11" fill="#9d3dcf" rx="5" ry="5" x="90" y="5" width="66.54314452091053"></rect>
         </g>
         
         <g transform="translate(0, 210)">
             <text x="0" y="15" class="text">NOI/NOI+/CTSC</text>
-            <text x="133.28039527086642" y="15" class="text">1885题</text>
-            <rect height="11" fill="#0e1d69" rx="5" ry="5" x="90" y="5" width="33.28039527086642"></rect>
+            <text x="133.29804129168872" y="15" class="text">1886题</text>
+            <rect height="11" fill="#0e1d69" rx="5" ry="5" x="90" y="5" width="33.29804129168872"></rect>
         </g>
         
         <g transform="translate(0, 240)">
