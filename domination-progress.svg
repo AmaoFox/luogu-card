@@ -82,14 +82,14 @@
         
         <g transform="translate(0, 150)">
             <text x="0" y="15" class="text">提高+/省选-</text>
-            <text x="154.19092994529734" y="15" class="text">3070题</text>
-            <rect height="11" fill="#3498db" rx="5" ry="5" x="90" y="5" width="54.190929945297334"></rect>
+            <text x="154.22622198694194" y="15" class="text">3072题</text>
+            <rect height="11" fill="#3498db" rx="5" ry="5" x="90" y="5" width="54.226221986941944"></rect>
         </g>
         
         <g transform="translate(0, 180)">
             <text x="0" y="15" class="text">省选/NOI-</text>
-            <text x="166.50785247926592" y="15" class="text">3768题</text>
-            <rect height="11" fill="#9d3dcf" rx="5" ry="5" x="90" y="5" width="66.50785247926592"></rect>
+            <text x="166.47256043762133" y="15" class="text">3766题</text>
+            <rect height="11" fill="#9d3dcf" rx="5" ry="5" x="90" y="5" width="66.47256043762131"></rect>
         </g>
         
         <g transform="translate(0, 210)">
