@@ -3,9 +3,9 @@ name: Update Luogu Stats
 on:
   workflow_dispatch:      # 保留手动触发
   schedule:
-    - cron: '0 0-10/1 * * *'
-    - cron: '0 11-15/2 * * *'
-    - cron: '0 20 * * *'
+    # - cron: '0 0-10/1 * * *'
+    # - cron: '0 11-15/2 * * *'
+    # - cron: '0 20 * * *'
 
 jobs:
   update:
